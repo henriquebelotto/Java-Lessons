@@ -1,4 +1,4 @@
-#Stack
+# Stack
 
 A Stack data structure follows the **"Last-In-First-Out"** methodology, i.e., the last
 element added to the stack will be the first element removed from the stack
